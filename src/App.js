@@ -8,6 +8,7 @@ import Contact from './Components/Contact';
 import Footer from './Components/Footer';
 import Faq from './Components/Faq';
 import Team from './Components/Team';
+import './assets/css/style.css'
 
 function App() {
   return (

@@ -101,13 +101,13 @@ export default function Footer() {
               <li class="footer-item">
                 <ion-icon name="call" aria-hidden="true"></ion-icon>
       
-                <a href="tel:+7894631546876" class="contact-link">+917670875823</a>
+                <a href="tel:+917670875823" class="contact-link">+917670875823</a>
               </li>
       
               <li class="footer-item">
                 <ion-icon name="mail" aria-hidden="true"></ion-icon>
       
-                <a href="mailto:info@Infiedge.com" class="contact-link">infiedgesoftware@gmail.com</a>
+                <a href="mailto:infiedgesoftware@gmail.com" class="contact-link">infiedgesoftware@gmail.com</a>
               </li>
       
               <li class="footer-item">

@@ -22,10 +22,10 @@ const Navbar = () => {
           {/* Use your logo image here */}
           <a href="#" className="logo">
             <img 
-              src="./assets/images/logo3.jpg" // Replace with the path to your logo image
+              src="./assets/images/logo_final3.png" // Replace with the path to your logo image
               alt="Infiedge Logo" 
               className="logo-image" 
-              width="75" // Adjust as needed
+              width="155" // Adjust as needed
               height="auto" 
             />
           </a>
@@ -34,10 +34,10 @@ const Navbar = () => {
             <div className="wrapper">
               <a href="#" className="logo">
                 <img 
-                  src="./assets/images/logo.png" 
+                  src="./assets/images/logo_final3.png" 
                   alt="Infiedge Logo" 
                   className="logo-image" 
-                  width="150" 
+                  width="55" 
                   height="auto" 
                 />
               </a>
