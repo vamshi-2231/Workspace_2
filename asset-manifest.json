@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Infiedge/static/css/main.a810a845.css",
-    "main.js": "/Infiedge/static/js/main.d61447ca.js",
-    "static/js/488.dcf038ad.chunk.js": "/Infiedge/static/js/488.dcf038ad.chunk.js",
-    "static/media/hero-pattern.svg": "/Infiedge/static/media/hero-pattern.7604235201fddd7b2b40.svg",
-    "index.html": "/Infiedge/index.html",
-    "main.a810a845.css.map": "/Infiedge/static/css/main.a810a845.css.map",
-    "main.d61447ca.js.map": "/Infiedge/static/js/main.d61447ca.js.map",
-    "488.dcf038ad.chunk.js.map": "/Infiedge/static/js/488.dcf038ad.chunk.js.map"
+    "main.css": "/Workspace2/static/css/main.752272c9.css",
+    "main.js": "/Workspace2/static/js/main.9e0d9919.js",
+    "static/js/488.dcf038ad.chunk.js": "/Workspace2/static/js/488.dcf038ad.chunk.js",
+    "static/media/hero-pattern.svg": "/Workspace2/static/media/hero-pattern.7604235201fddd7b2b40.svg",
+    "index.html": "/Workspace2/index.html",
+    "main.752272c9.css.map": "/Workspace2/static/css/main.752272c9.css.map",
+    "main.9e0d9919.js.map": "/Workspace2/static/js/main.9e0d9919.js.map",
+    "488.dcf038ad.chunk.js.map": "/Workspace2/static/js/488.dcf038ad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a810a845.css",
-    "static/js/main.d61447ca.js"
+    "static/css/main.752272c9.css",
+    "static/js/main.9e0d9919.js"
   ]
 }
