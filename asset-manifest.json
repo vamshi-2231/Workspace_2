@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/Workspace_2/static/css/main.e6c13ad2.css",
-    "main.js": "/Workspace_2/static/js/main.53aa56f3.js",
-    "static/js/488.dcf038ad.chunk.js": "/Workspace_2/static/js/488.dcf038ad.chunk.js",
-    "index.html": "/Workspace_2/index.html",
-    "main.e6c13ad2.css.map": "/Workspace_2/static/css/main.e6c13ad2.css.map",
-    "main.53aa56f3.js.map": "/Workspace_2/static/js/main.53aa56f3.js.map",
-    "488.dcf038ad.chunk.js.map": "/Workspace_2/static/js/488.dcf038ad.chunk.js.map"
+    "main.css": "/Infiedge/static/css/main.a810a845.css",
+    "main.js": "/Infiedge/static/js/main.d61447ca.js",
+    "static/js/488.dcf038ad.chunk.js": "/Infiedge/static/js/488.dcf038ad.chunk.js",
+    "static/media/hero-pattern.svg": "/Infiedge/static/media/hero-pattern.7604235201fddd7b2b40.svg",
+    "index.html": "/Infiedge/index.html",
+    "main.a810a845.css.map": "/Infiedge/static/css/main.a810a845.css.map",
+    "main.d61447ca.js.map": "/Infiedge/static/js/main.d61447ca.js.map",
+    "488.dcf038ad.chunk.js.map": "/Infiedge/static/js/488.dcf038ad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.53aa56f3.js"
+    "static/css/main.a810a845.css",
+    "static/js/main.d61447ca.js"
   ]
 }
