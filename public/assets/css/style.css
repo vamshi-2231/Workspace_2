@@ -1098,7 +1098,7 @@ body {
   }
 
   .header .btn-outline:is(:hover, :focus) {
-    background-color: var(--go-green);
+    background-color: var(#E5D9F2);
     color: var(--white);
   }
 

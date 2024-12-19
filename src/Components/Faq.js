@@ -12,7 +12,7 @@ export default function Faq() {
           <div class="title-wrapper">
             <h2 class="h2 section-title">Discover Frequently Asked Questions?</h2>
   
-            <a href="#" class="btn btn-primary">Work Together</a>
+            {/* <a href="#" class="btn btn-primary">Work Together</a> */}
           </div>
   
           <ul class="grid-list">

@@ -22,7 +22,7 @@ const Navbar = () => {
           {/* Use your logo image here */}
           <a href="#" className="logo">
             <img 
-              src="./assets/images/logo_final3.png" // Replace with the path to your logo image
+              src="./assets/images/logo_final4.png" // Replace with the path to your logo image
               alt="Infiedge Logo" 
               className="logo-image" 
               width="155" // Adjust as needed

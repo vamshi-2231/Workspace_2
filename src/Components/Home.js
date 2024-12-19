@@ -5,7 +5,7 @@ export default function Home() {
     <div>    {/* <!-- 
         - #HERO
       --> */}
-  
+       
   <section className="section hero" id="home" aria-label="hero">
   <div className="container">
     <div className="hero-content">
@@ -14,9 +14,9 @@ export default function Home() {
       <p className="hero-text">
         At Infiedge, we specialize in turning visionary ideas into impactful realities. As innovators in the digital world, we craft captivating experiences, build robust applications, and drive transformative results. Whether it’s leveraging AI and data analytics, mastering UI/UX design, or enhancing your online presence through cutting-edge marketing, Infiedge is your trusted partner for success.
       </p>
-      <div className="btn-group">
+      {/* <div className="btn-group">
         <a href="#home" className="btn btn-primary">Discover More</a>
-      </div>
+      </div> */}
     </div>
     <figure
       className="hero-banner has-before img-holder"

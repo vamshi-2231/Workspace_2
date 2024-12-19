@@ -23,7 +23,7 @@ export default function Feature() {
 
                 <data className="card-number" value="01">01</data>
 
-                <h3 className="h3 card-title">Expertise That Inspires</h3>
+                <h3 className="h3 card-title">EXPERTISE THAT INSPIRES</h3>
 
                 <p className="card-text">
                   Our team brings a wealth of knowledge and creativity to every project.
@@ -37,7 +37,7 @@ export default function Feature() {
 
                 <data className="card-number" value="02">02</data>
 
-                <h3 className="h3 card-title">Tailored Solutions</h3>
+                <h3 className="h3 card-title">TAILORED SOLUTIONS</h3>
 
                 <p className="card-text">
                   We adapt to your unique challenges and goals.
@@ -51,7 +51,7 @@ export default function Feature() {
 
                 <data className="card-number" value="03">03</data>
 
-                <h3 className="h3 card-title">Innovation at the Core</h3>
+                <h3 className="h3 card-title">INNOVATION AT THE CORE</h3>
 
                 <p className="card-text">
                   We thrive on solving problems with cutting-edge technology.
@@ -65,7 +65,7 @@ export default function Feature() {
 
                 <data className="card-number" value="04">04</data>
 
-                <h3 className="h3 card-title">Client-First Approach</h3>
+                <h3 className="h3 card-title">CLIENT-FIRST APPROACH</h3>
 
                 <p className="card-text">
                   Your success is our ultimate measure of achievement.
@@ -79,7 +79,7 @@ export default function Feature() {
 
                 <data className="card-number" value="05">05</data>
 
-                <h3 className="h3 card-title">Proven Success</h3>
+                <h3 className="h3 card-title">PROVEN SUCCESS</h3>
 
                 <p className="card-text">
                   Delivering excellence through results-driven solutions.
